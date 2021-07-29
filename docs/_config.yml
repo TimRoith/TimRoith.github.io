@@ -53,7 +53,7 @@ social:
 
 # analytics
 analytics:
-  provider: "gtag-google"
+  provider: "google-gtag"
   google:
     tracking_id: "G-WC7FSTWZGD"
     anonymize_ip: false # default
