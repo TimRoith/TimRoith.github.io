@@ -39,6 +39,27 @@ plugins:
 # github metadat
 github: [metadata]
 
+# defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+
 # twitter
 twitter:
   username: "tim_roith"
@@ -57,6 +78,38 @@ analytics:
   google:
     tracking_id: "G-WC7FSTWZGD"
     anonymize_ip: false # default
+
+author:
+  name     : "Tim Roith"
+  avatar   : "/assets/img/TecoNCat.jpg"
+  bio      : "PhD student in mathematics."
+  location : "Erlangen, Germany"
+  links:
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Tim-Roith"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/tim_roith"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/TimRoith"
+
+footer:
+  links:
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Tim-Roith"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/tim_roith"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/TimRoith"
+
+# Reading Files
+include:
+  - _pages
 
 # Exclude from processing.
 # The following items will not be processed, by default.
