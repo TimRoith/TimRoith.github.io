@@ -1,5 +1,6 @@
 ---
-permalink: /     
+permalink: /
+title: "Home"   
 ---
 
 # About Me
