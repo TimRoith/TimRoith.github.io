@@ -39,27 +39,6 @@ plugins:
 # github metadat
 github: [metadata]
 
-# defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-
 # twitter
 twitter:
   username: "tim_roith"
@@ -82,9 +61,12 @@ analytics:
 author:
   name     : "Tim Roith"
   avatar   : "/assets/img/Teco.jpg"
-  bio      : "PhD student in mathematics."
+  bio      : "PhD student in mathematics, mail: tim {dot} roith {at} fau {dot} de"
   location : "Erlangen, Germany"
   links:
+    - label: FAU Website
+      icon: "fas fa-fw fa-link"
+      url: https://www.math.fau.de/person/tim-roith/
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Tim-Roith"
@@ -110,6 +92,45 @@ footer:
 # Reading Files
 include:
   - _pages
+
+# Collections
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path/
+
+# defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "projects"
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.

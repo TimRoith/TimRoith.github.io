@@ -1,4 +1,0 @@
----
-permalink: /projects/
-title: "Projects"
----

@@ -9,3 +9,11 @@ main:
     url: /cv/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+projects:
+- title: Machine Learning
+  children:
+    - title: "Sparse Neural Networks"
+      url: /projects/SNN/
+    - title: "Robustness of Neural Networks"
+      url: /projects/RobNN/

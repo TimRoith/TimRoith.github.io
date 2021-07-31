@@ -8,6 +8,7 @@ header:
   overlay_image: /assets/img/Vision_2.png
   caption: "Me, a cat and some stuff."
 excerpt: "My Personal site."
+classes: wide
 # sidebar:
 #   - title: "Title"
 #     image: "/assets/img/TecoNCat.jpg"
@@ -17,6 +18,13 @@ excerpt: "My Personal site."
 #     text: "More text here." 
 ---
 
-# About Me
-I am a PhD student in mathematics at the [Friedrich--Alexander university Erlangen--Nürnberg](https://www.fau.eu/).
-# Blog
+# Introduction
+Hi,
+I'm Tim and this is my website. 
+
+This place is used as a hybrid of self organization and public presentation of some projects I did in an academic context.  
+
+# Posts
+{% for post in site.posts limit: 5 %}
+  {% include archive-single.html %}
+{% endfor %}

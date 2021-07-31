@@ -21,13 +21,13 @@
       float: left;
       width: calc(#{$right-sidebar-width-narrow} - 1em);
       opacity: 1;
-      filter: hue-rotate(-30deg);
+      filter: drop-shadow(0px 0px 0px rgb(255, 255, 255));;
       -webkit-transition: opacity 0.2s ease-in-out;
       transition: opacity 0.2s ease-in-out;
   
       &:hover {
         opacity: 1;
-        filter: hue-rotate(0deg);
+        filter: drop-shadow(0px 3px 3px rgb(247, 214, 187));;
       }
   
       &.sticky {
@@ -137,3 +137,11 @@ table {
   th {
     vertical-align: middle;
   }
+
+
+/* Social icon olors */
+.social-icons {
+  .fa-researchgate {
+    color: #00ccbb;
+  }
+}
