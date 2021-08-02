@@ -17,3 +17,9 @@ projects:
       url: /projects/SNN/
     - title: "Robustness of Neural Networks"
       url: /projects/RobNN/
+- title: LaTeX
+  children:
+    - title: "fau-beamer"
+      url: /projects/fau-beamer/
+    - title: "fau-math-thesis"
+      url: /projects/fau-math-thesis/

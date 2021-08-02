@@ -61,8 +61,9 @@ analytics:
 author:
   name     : "Tim Roith"
   avatar   : "/assets/img/Teco.jpg"
-  bio      : "PhD student in mathematics, mail: tim {dot} roith {at} fau {dot} de"
+  bio      : "PhD student in mathematics"
   location : "Erlangen, Germany"
+  email: " tim{dot}roith{at}fau{dot}de"
   links:
     - label: FAU Website
       icon: "fas fa-fw fa-link"
@@ -98,6 +99,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
 
 # defaults
 defaults:
@@ -130,6 +134,18 @@ defaults:
       comments: false
       sidebar:
         nav: "projects"
+  # publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+      sidebar:
+        nav: "publications"
 
 
 # Exclude from processing.

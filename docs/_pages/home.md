@@ -18,13 +18,16 @@ classes: wide
 #     text: "More text here." 
 ---
 
-# Introduction
+## Introduction
 Hi,
 I'm Tim and this is my website. 
 
 This place is used as a hybrid of self organization and public presentation of some projects I did in an academic context.  
 
-# Posts
+## Posts
 {% for post in site.posts limit: 5 %}
   {% include archive-single.html %}
 {% endfor %}
+
+## Links
+[List of publications](/publications/)
