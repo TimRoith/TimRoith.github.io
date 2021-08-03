@@ -1,0 +1,24 @@
+{% assign entries = site[include.collection] %}
+
+{% if include.sort_by %}
+  {% assign entries = entries | sort: include.sort_by %}
+{% endif %}
+
+{% if include.status %}
+  {% assign status = include.status %}
+{% endif %}
+
+{% if include.sort_order == 'reverse' %}
+  {% assign entries = entries | reverse %}
+{% endif %}
+
+{% assign post_count = 0 %}
+
+{%- for post in entries -%}
+  {%- unless post.hidden -%}
+    {% if (status == nil) or (post.status == status) %}
+      {% assign post_count = post_count | plus: 1 %}
+      {% include publication-single.html number = post_count %}
+    {% endif %}
+  {%- endunless -%}
+{%- endfor -%}
