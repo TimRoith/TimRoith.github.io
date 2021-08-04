@@ -1,10 +1,19 @@
 <div class="{{ include.type | default: 'list' }}__item">
-  <article class="notice--primary">
+  <article class="notice">
     {{ include.number }}. 
     {{ post.publication_info.venue }}. 
+    {{ post.publication_info.type }}. 
     <b>{{ post.title }}</b>.
     ({{ post.publication_info.year }})
-    <a href="{{ post.publication_info.record }}">[{{ post.publication_info.record_text }}] </a>
+
+    {% if post.publication_info.record %}
+        <a href="{{ post.publication_info.record }}">[{{ post.publication_info.record_text }}] </a>
+    {% endif %}
+    
+    {% if post.publication_info.file %}
+        <a href="{{ post.publication_info.file }}">[{{ post.publication_info.file_text }}]</a>
+    {% endif %}
+
     <a href="{{ post.url | relative_url }}">{{ "[Post]" }}</a>
   </article>
 </div>

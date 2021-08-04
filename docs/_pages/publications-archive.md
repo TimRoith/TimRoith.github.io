@@ -32,7 +32,7 @@ somewhat consistent. Here is a collection of important sites that also keep trac
      sort_by=page.sort_by sort_order=page.sort_order type=entries_layout status = "preprint" %}
 </div>
 
-## Talks
+## Presentations
 <div class="entries-{{ entries_layout }}">
   {% include publications-collection.html collection="publications" 
      sort_by=page.sort_by sort_order=page.sort_order type=entries_layout status = "talk" %}

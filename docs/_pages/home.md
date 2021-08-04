@@ -7,7 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/img/Vision_2.png
   caption: "Me, a cat and some stuff."
-excerpt: "My Personal site."
+excerpt: "My Personal Site."
 classes: wide
 # sidebar:
 #   - title: "Title"
@@ -30,4 +30,5 @@ This place is used as a hybrid of self organization and public presentation of s
 {% endfor %}
 
 ## Links
-[List of publications](/publications/)
+* [List of publications](/publications/)
+* [All posts](/posts-archive/)
