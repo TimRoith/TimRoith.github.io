@@ -6,6 +6,9 @@
 
 {% if include.status %}
   {% assign status = include.status %}
+  {% if status == "talk" %}
+    {% assign talk = true %}
+  {% endif %}
 {% endif %}
 
 {% if include.sort_order == 'reverse' %}
@@ -14,11 +17,17 @@
 
 {% assign post_count = 0 %}
 
+
+
 {%- for post in entries -%}
   {%- unless post.hidden -%}
-    {% if (status == nil) or (post.status == status) %}
+    {% if (status == nil) or (post.publication_info.status == status) %}
       {% assign post_count = post_count | plus: 1 %}
-      {% include publication-single.html number = post_count %}
+      {% if talk %}
+        {% include talk-single.html number = post_count %}
+      {% else %}
+        {% include publication-single.html number = post_count %}
+      {% endif %}
     {% endif %}
   {%- endunless -%}
 {%- endfor -%}

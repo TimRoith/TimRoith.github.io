@@ -11,9 +11,9 @@
 {% endif %}
 
 <div class="{{ include.type | default: 'list' }}__item">
-  <article class="notice--primary" itemscope itemtype="https://schema.org/CreativeWork">
+  <article class="notice--primary">
     {{ include.number }}. 
-    {{ post.publication_info.author }}. {{ post.title }}.
+    {{ post.publication_info.author }}. <b>{{ post.title }}</b>.
     ({{ post.publication_info.year }})
     {% if post.publication_info.print %}
         <a href="{{ post.publication_info.print }}">{{ "[Print]" }}</a>

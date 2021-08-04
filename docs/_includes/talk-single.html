@@ -1,0 +1,10 @@
+<div class="{{ include.type | default: 'list' }}__item">
+  <article class="notice--primary">
+    {{ include.number }}. 
+    {{ post.publication_info.venue }}. 
+    <b>{{ post.title }}</b>.
+    ({{ post.publication_info.year }})
+    <a href="{{ post.publication_info.record }}">[{{ post.publication_info.record_text }}] </a>
+    <a href="{{ post.url | relative_url }}">{{ "[Post]" }}</a>
+  </article>
+</div>

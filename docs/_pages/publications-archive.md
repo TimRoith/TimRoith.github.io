@@ -16,11 +16,24 @@ somewhat consistent. Here is a collection of important sites that also keep trac
 |CRIS, in-house system of FAU | [Tim Roith CRIS](https://cris.fau.de/converis/portal/Person/221675131?auxfun=&lang=en_GB) |
 | ORCID                                     | ID: 0000-0001-8440-2928 |
 | Researchgate                              | [Tim Roith RG](https://www.researchgate.net/profile/Tim-Roith) |
+| Google Scholar                            | [Tim Roith Google Scholar](https://scholar.google.com/citations?user=BKlbQTAAAAAJ&hl=en)
 
-## Publications
+## Prints
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 
 <div class="entries-{{ entries_layout }}">
-  {% include publications-collection.html collection="publications" sort_by=page.sort_by sort_order=page.sort_order type=entries_layout %}
+  {% include publications-collection.html collection="publications" 
+     sort_by=page.sort_by sort_order=page.sort_order type=entries_layout status = "print" %}
 </div>
+
+## Preprints
+<div class="entries-{{ entries_layout }}">
+  {% include publications-collection.html collection="publications" 
+     sort_by=page.sort_by sort_order=page.sort_order type=entries_layout status = "preprint" %}
+</div>
+
 ## Talks
+<div class="entries-{{ entries_layout }}">
+  {% include publications-collection.html collection="publications" 
+     sort_by=page.sort_by sort_order=page.sort_order type=entries_layout status = "talk" %}
+</div>
