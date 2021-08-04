@@ -57,6 +57,7 @@ analytics:
   google:
     tracking_id: "G-WC7FSTWZGD"
     anonymize_ip: false # default
+google_site_verification : "K1TMZWFyhw7qSQduwn-HqXxgUlrTz9bls_XPXHfDPO8"
 
 author:
   name     : "Tim Roith"
