@@ -5,13 +5,19 @@ toc: false
 layout: single
 classes: wide
 ---
-I am a PhD student in mathematics at the [Friedrich--Alexander university Erlangen--Nürnberg](https://www.fau.eu/).
+I'm a PhD student in mathematics at the [Friedrich--Alexander university Erlangen--Nürnberg](https://www.fau.eu/) and here I present some fun facts about me.
 
-## I like Kant
+## Hobbies and Interests
+
+<img src="/assets/img/TecoNCat.jpg" width="300" class="align-right"> 
+I started studying mathematics at the FAU in 2015 and have been collecting interests and projects ever since. Some of these include numerics, PDEs, graphs, functional analysis and neural networks. Furthermore, I am also a hobby computer scientist and a wannabe nerd, for which I picked up an obsession with LaTeX. Outside of the university I like to run, lift metal of the floor and play football. Since the end of 2020 I am also the proud instructor of the ["FitForFun"](/fff/) sports group at our chair. I am also a great cat enthusiast.
+
+## I like [Kant](https://ctan.org/pkg/kantlipsum?lang=en)
+
 As any dedicated reader can clearly see, the Ideal of practical reason is a representation
 of, as far as I know, the things in themselves; as I have shown elsewhere, the phenomena
 should only be used as a canon for our understanding. 
-<img src="/assets/img/TecoNCat.jpg" width="300" class="align-right"> 
+
 The paralogisms of practical
 reason are what first give rise to the architectonic of practical reason. As will easily be
 shown in the next section, reason would thereby be made to contradict, in view of these

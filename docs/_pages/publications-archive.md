@@ -19,6 +19,7 @@ somewhat consistent. Here is a collection of important sites that also keep trac
 | Google Scholar                            | [Tim Roith Google Scholar](https://scholar.google.com/citations?user=BKlbQTAAAAAJ&hl=en)
 
 ## Prints
+
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 
 <div class="entries-{{ entries_layout }}">
@@ -27,12 +28,14 @@ somewhat consistent. Here is a collection of important sites that also keep trac
 </div>
 
 ## Preprints
+
 <div class="entries-{{ entries_layout }}">
   {% include publications-collection.html collection="publications" 
      sort_by=page.sort_by sort_order=page.sort_order type=entries_layout status = "preprint" %}
 </div>
 
 ## Presentations
+
 <div class="entries-{{ entries_layout }}">
   {% include publications-collection.html collection="publications" 
      sort_by=page.sort_by sort_order=page.sort_order type=entries_layout status = "talk" %}

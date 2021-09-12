@@ -19,16 +19,45 @@ classes: wide
 ---
 
 ## Introduction
+
 Hi,
-I'm Tim and this is my website. 
+I'm Tim and this is my website.
 
 This place is used as a hybrid of self organization and public presentation of some projects I did in an academic context.  
 
-## Posts
-{% for post in site.posts limit: 5 %}
+## Recent Posts
+
+{% for post in site.posts limit: 3 %}
   {% include archive-single.html %}
 {% endfor %}
 
-## Links
+## Recent Publications
+
+{% assign post_count = 0 %}
+{% for post in site.publications %}
+  {% if post.publication_info.status == "print" or post.publication_info.status == "preprint" %}
+    {% assign post_count = post_count | plus: 1 %}
+    {% include publication-single.html %}
+  {% endif %}
+  {% if post_count >= 3 %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+
+## Recent Presentations
+
+{% assign post_count = 0 %}
+{% for post in site.publications %}
+  {% if post.publication_info.status == "talk" %}
+    {% assign post_count = post_count | plus: 1 %}
+    {% include talk-single.html %}
+  {% endif %}
+  {% if post_count >= 3 %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+
+## Relevant Links
+
 * [List of publications](/publications/)
 * [All posts](/posts-archive/)
