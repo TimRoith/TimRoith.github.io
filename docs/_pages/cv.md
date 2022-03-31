@@ -16,9 +16,9 @@ Friedrich--Alexander-University Erlangen--Nuernberg, Germany
 
 ## Teaching Experience
 
-
-| 04.2021 -- 08.2021 | Assistant for the lecture "MDS 2" at FAU        |
-| 04.2021 -- 08.2021 | Assistant for the lecture "EmD" at FAU          |
+| 10.2021 -- 04.2021 | Assistant and Lecturer for "MPC" at FAU         |
+| 04.2021 -- 10.2021 | Assistant for the lecture "MDS 2" at FAU        |
+| 04.2021 -- 10.2021 | Assistant for the lecture "EmD" at FAU          |
 | 10.2018 -- 10.2020 | Student Assistant in Applied Mathematics at FAU |
 | 04.2018 -- 09.2018 | Tutor for Linear Algebra at FAU                 |
 | 10.2017 -- 03.2018 | Tutor for Numerics at FAU                       |

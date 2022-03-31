@@ -4,6 +4,20 @@
 
 @charset "utf-8";
 
+/* Colors */
+$background-color: #eeeeee !default;
+$text-color: #222831 !default;
+$muted-text-color: #CFB53B !default;
+$primary-color: #002366 !default;
+$border-color: #002366 !default;
+$footer-background-color: $primary-color !default;
+$link-color: #002366 !default;
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: $text-color !default;
+$navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
+
+
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
@@ -41,10 +55,10 @@ html {
       -webkit-transition: opacity 0.2s ease-in-out;
       transition: opacity 0.2s ease-in-out;
   
-      &:hover {
-        opacity: 1;
-        filter: drop-shadow(0px 3px 3px rgb(247, 214, 187));;
-      }
+      //&:hover {
+      //  opacity: 1;
+      //  filter: drop-shadow(0px 5px 5px rgb(0, 35, 102));;
+      //}
   
       &.sticky {
         overflow-y: auto;
