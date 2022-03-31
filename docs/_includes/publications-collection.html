@@ -1,7 +1,7 @@
-{% assign entries = site[include.collection] %}
+{% assign entries = (site[include.collection] | sort: 'year') %}
 
 {% if include.sort_by %}
-  {% assign entries = entries | sort: include.sort_by %}
+  {% assign entries = entries | sort: 'year' %}
 {% endif %}
 
 {% if include.status %}
