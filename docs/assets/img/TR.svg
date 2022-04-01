@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="180"
+   height="180"
+   viewBox="0 0 180 180"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="2"
+       height="1"
+       patternTransform="translate(0,0) scale(10,10)"
+       id="Strips1_1">
+      <rect
+         style="fill:black;stroke:none"
+         x="0"
+         y="-0.5"
+         width="1"
+         height="2"
+         id="rect56923" />
+    </pattern>
+    <rect
+       x="48.029925"
+       y="83.042394"
+       width="42.643391"
+       height="57.456359"
+       id="rect4196" />
+  </defs>
+  <g
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:96px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';white-space:pre;inline-size:83.5215"
+       x="37.705734"
+       y="80.798004"
+       id="text2762"
+       transform="matrix(1.430496,0,0,1.430496,-50.714759,17.630002)"><tspan
+         x="37.705734"
+         y="80.798004"
+         id="tspan58508"><tspan
+           style="font-family:Garamond;-inkscape-font-specification:Garamond;fill:#002366"
+           id="tspan58506">T</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text4194"
+       style="line-height:1.25;font-family:'Trebuchet MS';font-size:16px;-inkscape-font-specification:'Trebuchet MS';white-space:pre;shape-inside:url(#rect4196)" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS'"
+       x="114.46384"
+       y="85.286781"
+       id="text37717"><tspan
+         id="tspan37715"
+         x="114.46384"
+         y="85.286781" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS'"
+       x="139.601"
+       y="97.855362"
+       id="text40613"><tspan
+         id="tspan40611"
+         x="139.601"
+         y="97.855362" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:96px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';white-space:pre;inline-size:83.5215;stroke:#002366;stroke-width:0.451339;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="37.705734"
+       y="80.798004"
+       id="text2762-3"
+       transform="matrix(1.4578846,0,0,1.4578846,31.58355,16.348791)"><tspan
+         x="37.705734"
+         y="80.798004"
+         id="tspan58512"><tspan
+           style="font-family:Garamond;-inkscape-font-specification:Garamond;fill:#cfb53b"
+           id="tspan58510">R</tspan></tspan></text>
+  </g>
+</svg>
