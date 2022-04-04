@@ -7,6 +7,8 @@ main:
     url: /projects/
   - title: "CV"
     url: /cv/
+  - title: "Publications and Presentations"
+    url: /publications/
   # - title: "Sitemap"
   #   url: /sitemap/
 
@@ -23,4 +25,8 @@ projects:
       url: /projects/fau-beamer/
     - title: "fau-math-thesis"
       url: /projects/fau-math-thesis/
+- title: Teaching
+  children:
+    - title: "MPC"
+      url: /projects/math-physics-c/
 

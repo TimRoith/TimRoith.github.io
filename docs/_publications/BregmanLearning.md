@@ -10,4 +10,5 @@ publication_info:
   author: "L. Bungert, T. Roith, D. Tenbrinck, M. Burger"
   preprint: "https://arxiv.org/abs/2105.04319"
   year: "2021"
+year: "2021"
 ---

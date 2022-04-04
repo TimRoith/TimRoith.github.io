@@ -14,19 +14,19 @@ A list of my publications, preprints and presentations.
 
 <div class="entries-{{ entries_layout }}">
   {% include publications-collection.html collection="publications"
-     sort_by=page.sort_by sort_order=page.sort_order type=entries_layout status = "print" %}
+     sort_by="year" sort_order="reverse" type=entries_layout status = "print" %}
 </div>
 
 ## Preprints
 
 <div class="entries-{{ entries_layout }}">
   {% include publications-collection.html collection="publications"
-     sort_by="year" sort_order="year" type=entries_layout status = "preprint" %}
+     sort_by="year" sort_order="reverse" type=entries_layout status = "preprint" %}
 </div>
 
 ## Presentations
 
 <div class="entries-{{ entries_layout }}">
   {% include publications-collection.html collection="publications"
-     sort_by=page.year sort_order=page.year type=entries_layout status = "talk" %}
+     sort_by="year" sort_order="reverse" type=entries_layout status = "talk" %}
 </div>

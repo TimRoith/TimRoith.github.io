@@ -33,8 +33,9 @@ This place is used as a hybrid of self organization and public presentation of s
 
 ## Recent Publications
 
+{% assign sorted = site.publications | sort : "year" | reverse %}
 {% assign post_count = 0 %}
-{% for post in site.publications %}
+{% for post in sorted %}
   {% if post.publication_info.status == "print" or post.publication_info.status == "preprint" %}
     {% assign post_count = post_count | plus: 1 %}
     {% include publication-single.html %}
@@ -47,7 +48,6 @@ This place is used as a hybrid of self organization and public presentation of s
 ## Recent Presentations
 
 {% assign post_count = 0 %}
-{% assign sorted = site.publications | where: "year", publication_info.year %}
 {% for post in sorted %}
   {% if post.publication_info.status == "talk" %}
     {% assign post_count = post_count | plus: 1 %}

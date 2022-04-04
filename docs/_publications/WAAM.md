@@ -8,4 +8,5 @@ publication_info:
   file: "https://www.researchgate.net/publication/349537197_Continuum_Limit_of_Lipschitz_Learning_on_Graphs"
   file_text: "Poster"
   year: "2021"
+year: "2021"
 ---

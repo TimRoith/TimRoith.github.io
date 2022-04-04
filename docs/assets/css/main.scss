@@ -16,6 +16,25 @@ $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: $text-color !default;
 $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 
+/* system typefaces */
+$serif      : Georgia, Times, serif;
+$sans-serif : Helvetica, "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", "Lucida Grande", Arial, sans-serif;
+$monospace  : Monaco, Consolas, "Lucida Console", monospace;
+
+$global-font-family           : $sans-serif;
+$header-font-family           : $sans-serif;
+$caption-font-family          : $serif;
+
+/* type scale */
+$type-size-1                  : 2.441em !default;  // ~39.056px
+$type-size-2                  : 1.953em !default;  // ~31.248px
+$type-size-3                  : 1.563em !default;  // ~25.008px
+$type-size-4                  : 1.25em !default;   // ~20px
+$type-size-5                  : 1em !default;      // ~16px
+$type-size-6                  : 0.75em !default;   // ~12px
+$type-size-7                  : 0.6875em !default; // ~11px
+$type-size-8                  : 0.625em !default;  // ~10px
+
 
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
@@ -175,5 +194,19 @@ table {
 .social-icons {
   .fa-researchgate {
     color: #00ccbb;
+  }
+}
+
+
+.archive__item-excerpt {
+  margin-top: 0px;
+  font-size: $type-size-6 !important;
+
+  & + p {
+    text-indent: 0;
+  }
+
+  a {
+    position: relative;
   }
 }

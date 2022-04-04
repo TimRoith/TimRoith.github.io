@@ -8,4 +8,5 @@ publication_info:
   record: "https://www.youtube.com/watch?v=XYiK6xGVRLI&t=1434s"
   record_text: "YouTube, jointly with Leon Bungert"
   year: "2020"
+year: "2020"
 ---

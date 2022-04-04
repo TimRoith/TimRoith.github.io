@@ -11,4 +11,5 @@ publication_info:
   preprint: "https://arxiv.org/abs/2103.12531"
   print: "https://link.springer.com/chapter/10.1007%2F978-3-030-75549-2_25"
   year: "2021"
+year: "2021"
 ---

@@ -27,7 +27,5 @@
     {% if post.publication_info.file %}
         <a href="{{ post.publication_info.file }}">[{{ post.publication_info.file_text }}]</a>
     {% endif %}
-
-    <a href="{{ post.url | relative_url }}">{{ "[Post]" }}</a>
   </article>
 </div>

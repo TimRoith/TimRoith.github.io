@@ -9,5 +9,6 @@ publication_info:
   status: "preprint"
   author: "L. Bungert, J.Calder, T. Roith"
   preprint: "https://arxiv.org/abs/2111.12370"
-  year: 2021
+  year: "2021"
+year: "2021"
 ---
