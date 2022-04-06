@@ -15,9 +15,9 @@ In winter semester 21/22 me and Daniel Tenbrinck were responsible for the lectur
 * [ordinary differential equations](https://fau-ammn.github.io/MathPhysicsC/odestability/stabilitaetsanalyse.html)
 * [stability of ordinary differential equations](https://fau-ammn.github.io/MathPhysicsC/odestability/stabilitaetsanalyse.html)
 * [vector calculus](https://fau-ammn.github.io/MathPhysicsC/vektoranalysis/vektoranalysis.html)
-* [differntial forms](https://fau-ammn.github.io/MathPhysicsC/manifolds/manifolds.html)
+* [differential forms](https://fau-ammn.github.io/MathPhysicsC/manifolds/manifolds.html)
 * [measure and integration theory](https://fau-ammn.github.io/MathPhysicsC/masstheorie/intro_masstheorie.html)
-* [compleyx calculus](https://fau-ammn.github.io/MathPhysicsC/complexanalysis/complexanalysis.html)
+* [complex calculus](https://fau-ammn.github.io/MathPhysicsC/complexanalysis/complexanalysis.html)
 
 The lecture was given in german.
 
@@ -33,7 +33,7 @@ For this lecture we decided to try out an exciting new way to provide lecture no
 
 ### Hypothesis Plugin
 
-An advantage of the online lecture note, is that we can place a hook for [hypothes.is](https://web.hypothes.is/) which alows students to directly annotate the notes.
+An advantage of the online lecture note, is that we can place a hook for [hypothes.is](https://web.hypothes.is/) which allows students to directly annotate the notes.
 
 Alternatively one can of course also open an issue on github.
 

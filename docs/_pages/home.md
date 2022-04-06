@@ -27,7 +27,7 @@ This place is used as a hybrid of self organization and public presentation of s
 
 ## Recent Posts
 
-{% for post in site.posts limit: 3 %}
+{% for post in site.posts limit: 6 %}
   {% include archive-single.html %}
 {% endfor %}
 
