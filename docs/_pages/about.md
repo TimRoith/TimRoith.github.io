@@ -1,11 +1,11 @@
 ---
 permalink: /about/
-title: "Some( )thing(s) about me"
+title: "About me"
 toc: false
 layout: single
 classes: wide
 ---
-I'm a PhD student in mathematics at the [Friedrich--Alexander university Erlangen--Nürnberg](https://www.fau.eu/) and here I present some fun facts about me.
+I'm a PhD student in mathematics at the [Friedrich-Alexander-Universität Erlangen-Nürnberg](https://www.fau.eu/) and here I present some fun facts about me.
 
 ## Hobbies and Interests
 
@@ -13,7 +13,16 @@ I'm a PhD student in mathematics at the [Friedrich--Alexander university Erlange
 
 I started studying mathematics at the FAU in 2015 and have been collecting interests and projects ever since. Some of these include numerics, PDEs, graphs, functional analysis and neural networks. Furthermore, I am also a hobby computer scientist and a wannabe nerd, for which I picked up an obsession with LaTeX. Outside of the university I like to run, lift metal of the floor and play football.
 
-Since the end of 2020 I am also the proud instructor of the ["FitForFun"](/fff/) sports group at our chair. I am also a great cat enthusiast.
+For an overview of some of the projects I am involved in you can visit the [Projects](/projects/) page on my site.
+
+## Other sites
+
+Here a some pages and accounts that you can find me on the web.
+
+* [ResearchGate](https://www.researchgate.net/profile/Tim-Roith)
+* [GoogleScholar](https://scholar.google.com/citations?user=BKlbQTAAAAAJ&hl=en)
+* [Twitter](https://twitter.com/tim_roith)
+* [FAU](https://www.math.fau.de/angewandte-mathematik-1/mitarbeiter/tim-roith/)
 
 ## I like [Kant](https://ctan.org/pkg/kantlipsum?lang=en)
 

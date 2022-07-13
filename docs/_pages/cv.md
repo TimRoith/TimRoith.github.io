@@ -5,7 +5,7 @@ toc: false
 classes: wide
 layout: splash
 ---
-Friedrich--Alexander-University Erlangen--Nuernberg, Germany
+Friedrich-Alexander-Universität Erlangen-Nürnberg, Deutschland
 
 ## Education
 
@@ -16,7 +16,8 @@ Friedrich--Alexander-University Erlangen--Nuernberg, Germany
 
 ## Teaching Experience
 
-| 10.2022 -- 04.2022 | Assistant and Lecturer for "MPC" at FAU         |
+| 04.2022 -- 10.2022 | Assistant for "Numerics 2" at FAU               |
+| 10.2021 -- 04.2022 | Assistant and Lecturer for "MPC" at FAU         |
 | 04.2021 -- 10.2021 | Assistant for the lecture "MDS 2" at FAU        |
 | 04.2021 -- 10.2021 | Assistant for the lecture "EmD" at FAU          |
 | 10.2018 -- 10.2020 | Student Assistant in Applied Mathematics at FAU |
