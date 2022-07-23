@@ -19,6 +19,8 @@ projects:
       url: /projects/SNN/
     - title: "Robustness of Neural Networks"
       url: /projects/RobNN/
+    - title: "Kernelized CBO"
+      url: /projects/KCBO/
 - title: LaTeX
   children:
     - title: "fau-beamer"
