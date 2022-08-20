@@ -5,21 +5,23 @@ toc: false
 classes: wide
 layout: splash
 ---
-Friedrich-Alexander-Universität Erlangen-Nürnberg, Deutschland
+
+Here's an excerpt of my CV.
+
 
 ## Education
 
-| Since 10.2020      | PhD Student at FAU                          |
-|04.2019 -- 10.2020  | M.Sc. in mathematics at FAU                 |
-|10.2015 -- 02.2019  | B.Sc. in mathematics at FAU                 |
+| Since 10.2020      | **Ph.D. student in mathematics** at the Friedrich-Alexander-Universität Erlangen-Nürnberg <br /> Supervisor: Martin Burger |
+|04.2019 -- 10.2020  | **M.Sc. in mathematics** at the Friedrich-Alexander-Universität Erlangen-Nürnberg <br /> Supervisor: Martin Burger <br /> Thesis title: Continuum Limit for Lipschitz Learning on Graphs |
+|10.2015 -- 02.2019  | **B.Sc. in mathematics** at the Friedrich-Alexander-Universität Erlangen-Nürnberg |
 |09.2007 -- 07.2015  | Abitur at Erasmus-Gymnasium Amberg, Germany |
 
 ## Teaching Experience
 
-| 04.2022 -- 10.2022 | Assistant for the lecture "Numerics 2" at FAU   |
-| 10.2021 -- 04.2022 | Assistant and Lecturer for "MPC" at FAU         |
-| 04.2021 -- 10.2021 | Assistant for the lecture "MDS 2" at FAU        |
-| 04.2021 -- 10.2021 | Assistant for the lecture "EmD" at FAU          |
-| 10.2018 -- 10.2020 | Student Assistant in Applied Mathematics at FAU |
-| 04.2018 -- 09.2018 | Tutor for Linear Algebra at FAU                 |
-| 10.2017 -- 03.2018 | Tutor for Numerics at FAU                       |
+| 04.2022 -- 10.2022 | Assistant for the lecture **Diskretisierung und numerische Optimierung** at FAU   |
+| 10.2021 -- 04.2022 | Assistant and Lecturer for **Mathematik für Physikstudierende C** at FAU          |
+| 04.2021 -- 10.2021 | Assistant for the lecture **Mathematik für DataScientists 2** at FAU              |
+| 04.2021 -- 10.2021 | Assistant for the lecture **Einführung in die mathematische Datenanalyse** at FAU |
+| 10.2018 -- 10.2020 | Student Assistant in Applied Mathematics at FAU                                   |
+| 04.2018 -- 09.2018 | Tutor for the lecture **Lineare Algebra** at FAU                                  |
+| 10.2017 -- 03.2018 | Tutor for the lecture **Einführung in die numerische Mathematik** at FAU          |
