@@ -155,7 +155,7 @@ where also only the current section is not grayed out. In order to achieve the s
 
 ## Citing and Link color
 
-Sometimes colored links and especially colored citations are a problem because they are the same color as their background. E.g., when you use ```\cite``` in the heading of a block it is not properly visible. Furthermore you can not just use ```\textcolor``` or something similar.
+Sometimes colored links and especially colored citations are a problem because they are the same color as their background. E.g., when you use ```\cite``` in the title of a block it is not properly visible. Furthermore you can not just use ```\textcolor``` or something similar.
 
 In order to change the color such text **locally** you need to redefine the setup within a group,
 
