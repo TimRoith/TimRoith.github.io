@@ -6,9 +6,10 @@ header:
   overlay_filter: "0.5"
   teaser: /assets/img/LipLearning.png
 publication_info:
-  status: "preprint"
+  status: "print"
   author: "L. Bungert, J.Calder, T. Roith"
   preprint: "https://arxiv.org/abs/2111.12370"
-  year: "2021"
-year: "2021"
+  print: "https://academic.oup.com/imajna/advance-article/doi/10.1093/imanum/drac048/6705556"
+  year: "2022"
+year: "2022"
 ---
