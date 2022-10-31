@@ -18,8 +18,9 @@ Here's an excerpt of my CV.
 
 ## Teaching Experience
 
+| 10.2022 -- 04.2023 | Assistant and lecturer for the lecture **Numerik I** at FAU   |
 | 04.2022 -- 10.2022 | Assistant for the lecture **Diskretisierung und numerische Optimierung** at FAU   |
-| 10.2021 -- 04.2022 | Assistant and Lecturer for **Mathematik für Physikstudierende C** at FAU          |
+| 10.2021 -- 04.2022 | Assistant and lecturer for **Mathematik für Physikstudierende C** at FAU          |
 | 04.2021 -- 10.2021 | Assistant for the lecture **Mathematik für DataScientists 2** at FAU              |
 | 04.2021 -- 10.2021 | Assistant for the lecture **Einführung in die mathematische Datenanalyse** at FAU |
 | 10.2018 -- 10.2020 | Student Assistant in Applied Mathematics at FAU                                   |
