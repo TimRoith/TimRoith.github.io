@@ -5,7 +5,7 @@ layout: single
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/img/Vision_2.png
+  overlay_image: /assets/img/polar.gif
   caption: "Me, a cat and some stuff."
 excerpt: "My Personal Site."
 classes: wide
@@ -20,10 +20,8 @@ classes: wide
 
 ## Introduction
 
-Hi,
-I'm Tim and this is my website.
-
-This place is used as a hybrid of self organization and public presentation of some projects I did in an academic context.  
+Hi, I'm Tim.
+Currently I am a PhD student in mathematics at the Friedrich-Alexander Universität Erlangen-Nürnberg.
 
 ## Recent Posts
 
@@ -57,6 +55,14 @@ This place is used as a hybrid of self organization and public presentation of s
     {% break %}
   {% endif %}
 {% endfor %}
+
+## Projects
+
+{% assign entries_layout = "grid" | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% include documents-collection.html collection="projects" type=entries_layout %}
+</div>
+<hr style="clear:both;">
 
 ## Relevant Links
 

@@ -1,8 +1,8 @@
 
 # main links
 main:
-  - title: "About"
-    url: /about/
+  # - title: "About"
+  #   url: /about/
   - title: "Projects"
     url: /projects/
   - title: "CV"
@@ -13,22 +13,25 @@ main:
   #   url: /sitemap/
 
 projects:
-- title: Machine Learning
+- title: Research
+  url: /projects/research/
   children:
-    - title: "Sparse Neural Networks"
-      url: /projects/SNN/
-    - title: "Robustness of Neural Networks"
-      url: /projects/RobNN/
-    - title: "Kernelized CBO"
-      url: /projects/KCBO/
+    - title: "Bregman Learning"
+      url: /2022/12/22/Breg/
+    - title: "Robust Neural Networks"
+      url: /2021/07/22/CLIP/
+    - title: "PolarCBO"
+      url: /2022/11/07/PCBO/
 - title: LaTeX
+  url: /projects/LaTeX/
   children:
     - title: "fau-beamer"
-      url: /projects/fau-beamer/
-    - title: "fau-math-thesis"
-      url: /projects/fau-math-thesis/
+      url: /2023/02/14/FAU/
+    - title: "fau-book"
+      url: /2022/08/29/Book/
 - title: Teaching
+  url: /projects/Teaching/
   children:
     - title: "MPC"
-      url: /projects/math-physics-c/
+      url: /2022/06/12/MPC/
 
