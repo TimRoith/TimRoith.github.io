@@ -3,12 +3,18 @@ permalink: /
 title: "Tim Roith"
 layout: single
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
+  #overlay_color: "#000"
+  #overlay_filter: "0.5"
   overlay_image: /assets/img/polar.gif
-  caption: "Me, a cat and some stuff."
-excerpt: "My Personal Site."
-classes: wide
+  caption: "The magic of PolarCBO."
+  actions:
+  - label: "Visualization via PolarCBO"
+    url: "https://github.com/TimRoith/polarcbo"
+excerpt: "Hi, I'm Tim. <br>
+Currently I am a PhD student in mathematics <br> 
+at the Friedrich-Alexander Universität <br>
+Erlangen-Nürnberg."
+#classes: wide
 # sidebar:
 #   - title: "Title"
 #     image: "/assets/img/TecoNCat.jpg"
@@ -17,11 +23,6 @@ classes: wide
 #   - title: "Another Title"
 #     text: "More text here." 
 ---
-
-## Introduction
-
-Hi, I'm Tim.
-Currently I am a PhD student in mathematics at the Friedrich-Alexander Universität Erlangen-Nürnberg.
 
 ## Recent Posts
 
