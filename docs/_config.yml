@@ -40,16 +40,11 @@ plugins:
 # github metadat
 github: [metadata]
 
-# twitter
-twitter:
-  username: "tim_roith"
-
 # social
 social:
   type:  # Person or Organization (defaults to Person)
   name: 
   links:
-    - "https://twitter.com/tim_roith"
     - "https://www.researchgate.net/profile/Tim-Roith"
 
 # analytics
@@ -63,13 +58,13 @@ google_site_verification : "K1TMZWFyhw7qSQduwn-HqXxgUlrTz9bls_XPXHfDPO8"
 author:
   name     : "Tim Roith"
   avatar   : "/assets/img/Teco.jpg"
-  bio      : "PhD student in mathematics"
-  location : "Erlangen, Germany"
-  email: " tim{dot}roith{at}fau{dot}de"
+  bio      : "Postdoc at Helmholtz Imaging, DESY"
+  location : "Hamburg, Germany"
+  email: " tim{dot}roith{at}desy{dot}de"
   links:
-    - label: FAU Website
-      icon: "fas fa-fw fa-link"
-      url: https://www.math.fau.de/person/tim-roith/
+    #- label: FAU Website
+    #  icon: "fas fa-fw fa-link"
+    #  url: https://www.math.fau.de/person/tim-roith/
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Tim-Roith"
@@ -85,9 +80,6 @@ footer:
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Tim-Roith"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/tim_roith"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/TimRoith"

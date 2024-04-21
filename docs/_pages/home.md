@@ -1,19 +1,15 @@
 ---
 permalink: /
-title: "Tim Roith"
+title: "Hi, I'm Tim!"
 layout: single
-header:
+#header:
   #overlay_color: "#000"
   #overlay_filter: "0.5"
-  overlay_image: /assets/img/polar.gif
-  caption: "The magic of PolarCBO."
-  actions:
-  - label: "Visualization via PolarCBO"
-    url: "https://github.com/TimRoith/polarcbo"
-excerpt: "Hi, I'm Tim. <br>
-Currently I am a PhD student in mathematics <br> 
-at the Friedrich-Alexander Universität <br>
-Erlangen-Nürnberg."
+#  overlay_image: /assets/img/polar.gif
+#  caption: "The magic of PolarCBO."
+#  actions:
+#  - label: "Visualization via PolarCBO"
+#    url: "https://github.com/TimRoith/polarcbo"
 #classes: wide
 # sidebar:
 #   - title: "Title"
@@ -23,6 +19,8 @@ Erlangen-Nürnberg."
 #   - title: "Another Title"
 #     text: "More text here." 
 ---
+
+I'm currently a Postdoc at the [computational imaging group](https://helmholtz-imaging.de/team/) at [DESY](https://www.desy.de/).
 
 ## Recent Posts
 

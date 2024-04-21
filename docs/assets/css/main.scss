@@ -18,12 +18,12 @@ $navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
 
 /* system typefaces */
 $serif      : Georgia, Times, serif;
-$sans-serif : Helvetica, "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", "Lucida Grande", Arial, sans-serif;
+$sans-serif : 'Urbanist', Helvetica, "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", "Lucida Grande", Arial, sans-serif;
 $monospace  : Monaco, Consolas, "Lucida Console", monospace;
 
-$global-font-family           : $sans-serif;
-$header-font-family           : $sans-serif;
-$caption-font-family          : $serif;
+$global-font-family           : 'Urbanist', $sans-serif;
+$header-font-family           : 'Urbanist', $sans-serif;
+$caption-font-family          : 'Urbanist', $serif;
 
 /* type scale */
 $type-size-1                  : 2.441em !default;  // ~39.056px
