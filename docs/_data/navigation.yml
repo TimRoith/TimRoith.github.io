@@ -24,11 +24,11 @@ projects:
       url: /2022/11/07/PCBO/
 - title: LaTeX
   url: /projects/LaTeX/
-  children:
-    - title: "fau-beamer"
-      url: /2023/02/14/FAU/
-    - title: "fau-book"
-      url: /2022/08/29/Book/
+  # children:
+  #   - title: "fau-beamer"
+  #     url: /2023/02/14/FAU/
+  #   - title: "fau-book"
+  #     url: /2022/08/29/Book/
 - title: Teaching
   url: /projects/Teaching/
   children:
