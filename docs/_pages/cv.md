@@ -49,7 +49,7 @@ Here's an excerpt of my CV.
 ## Research visits
 
 | 2024 | Research visit at the California Institute of Technology              | Pasadena, USA |
-| 2021 | imons Institute for the Theory of Computing, University of California | Berkeley, USA |
+| 2021 | Simons Institute for the Theory of Computing, University of California | Berkeley, USA |
 
 ## Outreach and scientific service
 
