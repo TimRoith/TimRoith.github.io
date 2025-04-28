@@ -3,11 +3,9 @@
 main:
   # - title: "About"
   #   url: /about/
-  - title: "Projects"
-    url: /projects/
   - title: "CV"
     url: /cv/
-  - title: "Publications and Talks"
+  - title: "Papers and Talks"
     url: /publications/
   # - title: "Sitemap"
   #   url: /sitemap/
