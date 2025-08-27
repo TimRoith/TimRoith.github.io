@@ -41,9 +41,10 @@ Here's an excerpt of my CV.
 
 ## Co-Organization of scientific events
 
-| 2024 | Workshop at DESY: “Deep Learning in Inverse Problems”| Hamburg, Germany |
+| 2025 | Workshop at DESY on "Mathematics of Transformers" | Hamburg, Germany |
+| 2024 | Workshop at DESY on “Deep Learning in Inverse Problems”| Hamburg, Germany |
 | 2024 | Minisymposium at ECM: “From the Theory of Interacting Particle Systems to Applications in Optimization” | Sevilla, Spain 2024 |
-| 2023 | Minisymposium at ICIAM: “Adversarial robustness at the interface of analysis, geometry and statistics” | Tokyo, Japan 2023 |
+| 2023 | Minisymposium at ICIAM: “Adversarial robustness at the interface of analysis, geometry and statistics”  | Tokyo, Japan 2023 |
 | 2022 | Minisymposium at SIAM Imaging Science: “Recent Advances on Stable Neural Networks” | online |
 
 ## Research visits
