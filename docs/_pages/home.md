@@ -22,10 +22,6 @@ layout: single
 
 I'm currently a Postdoc at the [computational imaging group](https://helmholtz-imaging.de/team/) at [DESY](https://www.desy.de/).
 
-## News
-
-You can now sign up for our one-day workshop on [the mathematics of transformers](https://indico.desy.de/event/Transformers25/) which takes place on 26th of September 2025 at DESY in Hamburg.
-
 ## Recent Posts
 
 {% for post in site.posts limit: 6 %}
