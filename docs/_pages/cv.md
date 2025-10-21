@@ -14,11 +14,12 @@ Here's an excerpt of my CV.
 |Since 03.2024       | **Postdoc** in the Computational Imaging Group at Deutsches Elektronen-Synchrotron <br /> Supervisor: Martin Burger |
 |11.2020 -- 03.2024  | **Ph.D. student in mathematics** at the Friedrich-Alexander-Universität Erlangen-Nürnberg <br /> Supervisor: Martin Burger |
 |04.2019 -- 10.2020  | **M.Sc. in mathematics** at the Friedrich-Alexander-Universität Erlangen-Nürnberg <br /> Supervisor: Martin Burger <br /> Thesis title: Continuum Limit for Lipschitz Learning on Graphs |
-|10.2015 -- 02.2019  | **B.Sc. in mathematics** at the Friedrich-Alexander-Universität Erlangen-Nürnberg |
-|09.2007 -- 07.2015  | Abitur at Erasmus-Gymnasium Amberg, Germany |
+|10.2015 -- 02.2019  | **B.Sc. in mathematics** at the Friedrich-Alexander-Universität Erlangen-Nürnberg              |
+|09.2007 -- 07.2015  | Abitur at Erasmus-Gymnasium Amberg, Germany                                                    |
 
 ## Teaching Experience
 
+| 10.2025            | Instructor at the  Helmholtz Information & Data Science Academy                   |
 | 10.2024 -- 04.2025 | Guest lecturer at the university of Hamburg                                       |
 | 09.2024            | Instructor at the Helmholtz Summer School - From Data to Knowledge                |
 | 09.2023            | Instructor at at the Helmholtz Incubator Summer Academy                           |
@@ -42,21 +43,23 @@ Here's an excerpt of my CV.
 ## Co-Organization of scientific events
 
 | 2025 | Workshop at DESY on "Mathematics of Transformers" | Hamburg, Germany |
-| 2024 | Workshop at DESY on “Deep Learning in Inverse Problems”| Hamburg, Germany |
-| 2024 | Minisymposium at ECM: “From the Theory of Interacting Particle Systems to Applications in Optimization” | Sevilla, Spain 2024 |
-| 2023 | Minisymposium at ICIAM: “Adversarial robustness at the interface of analysis, geometry and statistics”  | Tokyo, Japan 2023 |
-| 2022 | Minisymposium at SIAM Imaging Science: “Recent Advances on Stable Neural Networks” | online |
+| 2024 | Workshop at DESY on "Deep Learning in Inverse Problems"| Hamburg, Germany |
+| 2024 | Minisymposium at ECM: "From the Theory of Interacting Particle Systems to Applications in Optimization" | Sevilla, Spain 2024 |
+| 2023 | Minisymposium at ICIAM: "Adversarial robustness at the interface of analysis, geometry and statistics"  | Tokyo, Japan 2023 |
+| 2022 | Minisymposium at SIAM Imaging Science: "Recent Advances on Stable Neural Networks" | online |
 
 ## Research visits
 
-| 2024 | Research visit at the California Institute of Technology              | Pasadena, USA |
-| 2021 | Simons Institute for the Theory of Computing, University of California | Berkeley, USA |
+| 2024 | Visiting postdoc at the California Institute of Technology                       | Pasadena, USA |
+| 2023 | Visited Leon Bungert while he was a junior fellow at the Mittag–Leffler Institut | Stockholm, Sweden |
+| 2021 | Simons Institute for the Theory of Computing, University of California           | Berkeley, USA     |
 
 ## Outreach and scientific service
 
-|since 2021 | Reviewer for the journals: Memoirs of the European Mathematical Society, Communications in Partial Differential Equations, Research in the Mathematical Sciences, SIAM Journal on Imaging Sciences, SIAM Journal on Mathematical Analysis, Nonlinear Analysis, Numerische Mathematik, SSVM|
+|since 2021  | Reviewer for the journals: Memoirs of the European Mathematical Society, Communications in Partial Differential Equations, Research in the Mathematical Sciences, SIAM Journal on Imaging Sciences, SIAM Journal on Mathematical Analysis, Nonlinear Analysis, Numerische Mathematik, SSVM|
 | since 2024 | Supervision of student interns Jeremie Sefo, Raphaël Bernas |
-| 10.2024    | SIAM News article: [Learning in Image Reconstruction: A Cautionary Tale](https://sinews.siam.org/Details-Page/learning-in-image-reconstruction-a-cautionary-tale)
+| 2025       | Wissen vom Fass: Talk about adversarial learning for a non-expert audience in Hamburg |
+| 2024       | SIAM News article: [Learning in Image Reconstruction: A Cautionary Tale](https://sinews.siam.org/Details-Page/learning-in-image-reconstruction-a-cautionary-tale)
 | 2024       | Wissen vom Fass: Talk about adversarial learning for a non-expert audience in Hamburg |
 | 2022       | Lange Nacht der Wissenschaften |
 | 2022       | Girls Day: Wie uns Mathematik hilft in den Körper zu schauen |
