@@ -6,6 +6,7 @@ publication_info:
   author: "Martin Burger, Samira Kabri, Yury Korolev, Tim Roith and Lukas Weigand"
   preprint: "https://arxiv.org/abs/2501.03096"
   print: "https://royalsocietypublishing.org/doi/10.1098/rsta.2024.0233"
+  journal: "Philosophical Transactions of the Royal Society A"
   year: "2025"
 year: "2025"
 ---

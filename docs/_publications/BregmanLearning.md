@@ -10,6 +10,7 @@ publication_info:
   author: "L. Bungert, T. Roith, D. Tenbrinck, M. Burger"
   preprint: "https://arxiv.org/abs/2105.04319"
   print: "https://jmlr.org/papers/volume23/21-0545/21-0545.pdf"
+  journal: "Journal of Machine Learning Research (JMLR)"
   year: "2021"
 year: "2021"
 ---

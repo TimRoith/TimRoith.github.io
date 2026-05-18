@@ -20,7 +20,9 @@ layout: single
 #     text: "More text here." 
 ---
 
-I'm currently a Postdoc at the [computational imaging group](https://helmholtz-imaging.de/team/) at [DESY](https://www.desy.de/).
+I'm currently a substitute professor at the [Technical University of Munich](https://campus.tum.de/tumonline/visitenkarte.show_vcard?pPersonenGruppe=3&pPersonenId=DB0D4E7C32EE1BB1). I am a member of the [COST Action InterCoML](https://www.cost.eu/actions/CA24136/) and the [Munich Center for Machine Learning](https://mcml.ai/research/groups/fornasier/).
+
+My research lies at the intersection of mathematical analysis, optimization, and machine learning. I work on consensus-based optimization methods, robustness and stability of neural networks, and learning problems in imaging and inverse problems.
 
 ## Recent Posts
 

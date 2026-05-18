@@ -6,6 +6,7 @@ publication_info:
   author: "S. Kabri, T. Roith, D. Tenbrinck, M. Burger"
   preprint: "https://arxiv.org/abs/2304.01227"
   print: "https://link.springer.com/chapter/10.1007/978-3-031-31975-4_18"
+  journal: "Scale Space and Variational Methods in Computer Vision (SSVM 2023)"
   year: "2023"
 year: "2023"
 ---

@@ -8,7 +8,7 @@ classes: wide
 ---
 A list of my publications, preprints and presentations.
 
-## Prints
+## Publications
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 

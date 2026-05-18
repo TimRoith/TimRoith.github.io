@@ -21,10 +21,10 @@
 title: Tim Roith
 logo: /assets/img/TR.png
 show_downloads: true
-email: tim {dot} roith {at} fau {dot} de
-description: Tim Roith
+email: tim {dot} roith {at} tum {dot} de
+description: "Academic website of Tim Roith, mathematician working on optimization, neural network robustness, and machine learning."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://timroith.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: tim_roith
 github_username:  TimRoith
 
@@ -58,13 +58,16 @@ google_site_verification : "K1TMZWFyhw7qSQduwn-HqXxgUlrTz9bls_XPXHfDPO8"
 author:
   name     : "Tim Roith"
   avatar   : "/assets/img/Teco.jpg"
-  bio      : "Postdoc at Helmholtz Imaging, DESY"
-  location : "Hamburg, Germany"
-  email: " tim{dot}roith{at}desy{dot}de"
+  bio      : "Substitute Professor at TUM"
+  location : "Munich, Germany"
+  email: "tim{dot}roith{at}tum{dot}de"
   links:
     #- label: FAU Website
     #  icon: "fas fa-fw fa-link"
     #  url: https://www.math.fau.de/person/tim-roith/
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=BKlbQTAAAAAJ&hl=en"
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Tim-Roith"

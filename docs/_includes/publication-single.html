@@ -16,10 +16,12 @@
       {{ include.number }}. 
     {% endif %}
     {{ post.publication_info.author }}. <b>{{ post.title }}</b>.
-    ({{ post.publication_info.year }})
+    {% if post.publication_info.journal %}<em>{{ post.publication_info.journal }}</em>. {% endif %}({{ post.publication_info.year }})
     {% if post.publication_info.print %}
         <a href="{{ post.publication_info.print }}">{{ "[Print]" }}</a>
     {% endif %}
+    {% if post.publication_info.preprint %}
     <a href="{{ post.publication_info.preprint }}">{{ "[Preprint]" }} </a>
+    {% endif %}
   </article>
 </div>

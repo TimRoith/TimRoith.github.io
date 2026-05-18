@@ -10,6 +10,7 @@ publication_info:
   author: "L. Bungert, J.Calder, T. Roith"
   preprint: "https://arxiv.org/abs/2111.12370"
   print: "https://academic.oup.com/imajna/advance-article/doi/10.1093/imanum/drac048/6705556"
+  journal: "IMA Journal of Numerical Analysis"
   year: "2022"
 year: "2022"
 ---

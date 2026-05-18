@@ -11,7 +11,8 @@ Here's an excerpt of my CV.
 
 ## Education and Academic Track
 
-|Since 03.2024       | **Postdoc** in the Computational Imaging Group at Deutsches Elektronen-Synchrotron <br /> Supervisor: Martin Burger |
+|Since 03.2026       | **Substitute Professor** at the Technical University of Munich |
+|03.2024 -- 03.2026  | **Postdoc** in the Computational Imaging Group at Deutsches Elektronen-Synchrotron <br /> Supervisor: Martin Burger |
 |11.2020 -- 03.2024  | **Ph.D. student in mathematics** at the Friedrich-Alexander-Universität Erlangen-Nürnberg <br /> Supervisor: Martin Burger |
 |04.2019 -- 10.2020  | **M.Sc. in mathematics** at the Friedrich-Alexander-Universität Erlangen-Nürnberg <br /> Supervisor: Martin Burger <br /> Thesis title: Continuum Limit for Lipschitz Learning on Graphs |
 |10.2015 -- 02.2019  | **B.Sc. in mathematics** at the Friedrich-Alexander-Universität Erlangen-Nürnberg              |
@@ -22,7 +23,7 @@ Here's an excerpt of my CV.
 | 10.2025            | Instructor at the  Helmholtz Information & Data Science Academy                   |
 | 10.2024 -- 04.2025 | Guest lecturer at the university of Hamburg                                       |
 | 09.2024            | Instructor at the Helmholtz Summer School - From Data to Knowledge                |
-| 09.2023            | Instructor at at the Helmholtz Incubator Summer Academy                           |
+| 09.2023            | Instructor at the Helmholtz Incubator Summer Academy                              |
 | 10.2022 -- 04.2023 | Assistant and lecturer for the lecture **Numerik I** at FAU                       |
 | 04.2022 -- 10.2022 | Assistant for the lecture **Diskretisierung und numerische Optimierung** at FAU   |
 | 10.2021 -- 04.2022 | Assistant and lecturer for **Mathematik für Physikstudierende C** at FAU          |
@@ -34,7 +35,7 @@ Here's an excerpt of my CV.
 
 ## Scholarships, Honors and Grants
 
-| 2025               | **Dr.-Klaus-Körper Prize**: dissertation prize awarded by the international association of applied mathematics and mathematics                                                                       |
+| 2025               | **Dr.-Klaus-Körper Prize**: dissertation prize awarded by the international association of applied mathematics and mechanics                                                                       |
 | 2024               | **BMBF Grant**: COMFORT: Compression Methods for Robustness and Transferability. Co-PI. Total funding amount: 1.98M €                                                                                |
 | 2024               | **DAAD** scholarship: scholarship for a research stay at the California institute of technology within the proposal “Bayesian Computations for Large-scale (Nonlinear) Inverse Problems in Imaging”  |
 | 2023               | Erasmus Mobility Grant: scholarship for a winter school in Bologna                                                                                                                                   |  
