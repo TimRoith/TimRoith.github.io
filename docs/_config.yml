@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Tim Roith
-logo: /assets/img/TR.png
 show_downloads: true
 email: tim {dot} roith {at} tum {dot} de
 description: "Academic website of Tim Roith, mathematician working on optimization, neural network robustness, and machine learning."
