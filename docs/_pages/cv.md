@@ -16,24 +16,11 @@ Here's an excerpt of my CV.
 |11.2020 -- 03.2024  | **Ph.D. student in mathematics** at the Friedrich-Alexander-Universität Erlangen-Nürnberg <br /> Supervisor: Martin Burger |
 |04.2019 -- 10.2020  | **M.Sc. in mathematics** at the Friedrich-Alexander-Universität Erlangen-Nürnberg <br /> Supervisor: Martin Burger <br /> Thesis title: Continuum Limit for Lipschitz Learning on Graphs |
 |10.2015 -- 02.2019  | **B.Sc. in mathematics** at the Friedrich-Alexander-Universität Erlangen-Nürnberg              |
-|09.2007 -- 07.2015  | Abitur at Erasmus-Gymnasium Amberg, Germany                                                    |
-
-## Teaching Experience
-
-| 10.2025            | Instructor at the  Helmholtz Information & Data Science Academy                   |
-| 10.2024 -- 04.2025 | Guest lecturer at the university of Hamburg                                       |
-| 09.2024            | Instructor at the Helmholtz Summer School - From Data to Knowledge                |
-| 09.2023            | Instructor at the Helmholtz Incubator Summer Academy                              |
-| 10.2022 -- 04.2023 | Assistant and lecturer for the lecture **Numerik I** at FAU                       |
-| 04.2022 -- 10.2022 | Assistant for the lecture **Diskretisierung und numerische Optimierung** at FAU   |
-| 10.2021 -- 04.2022 | Assistant and lecturer for **Mathematik für Physikstudierende C** at FAU          |
-| 04.2021 -- 10.2021 | Assistant for the lecture **Mathematik für DataScientists 2** at FAU              |
-| 04.2021 -- 10.2021 | Assistant for the lecture **Einführung in die mathematische Datenanalyse** at FAU |
-| 10.2018 -- 10.2020 | Student Assistant in Applied Mathematics at FAU                                   |
-| 04.2018 -- 09.2018 | Tutor for the lecture **Lineare Algebra** at FAU                                  |
-| 10.2017 -- 03.2018 | Tutor for the lecture **Einführung in die numerische Mathematik** at FAU          |
+|09.2007 -- 07.2015  | Abitur at Erasmus-Gymnasium Amberg, Germany                                           |
 
 ## Scholarships, Honors and Grants
+
+| 2026               | **Short Term Scientific Mission** Grant awarded by the COST Action InterCoML               |
 
 | 2025               | **Dr.-Klaus-Körper Prize**: dissertation prize awarded by the international association of applied mathematics and mechanics                                                                       |
 | 2024               | **BMBF Grant**: COMFORT: Compression Methods for Robustness and Transferability. Co-PI. Total funding amount: 1.98M €                                                                                |
